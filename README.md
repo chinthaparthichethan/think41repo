@@ -1,12 +1,20 @@
-# React + Vite
+# Slot Booking App
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A simple slot booking application built with React and Vite. Users can select a date and choose from predefined time slots to book an appointment.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 📁 Folder Structure
 
-## Expanding the ESLint configuration
+- 
+- `src/components/Date1.jsx` — Main slot date selection component
+- 
+- `src/components/alert1.jsx` — Main slot alert omponent
+- 
+- `src/App.jsx` — Entry point that renders the component
+- `src/main.jsx` — Mounts the React app
+- `vite.config.js` — Vite configuration
+- `.gitignore`, `package.json`, `README.md` — Project metadata and settings
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+---
+
