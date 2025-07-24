@@ -4,7 +4,7 @@ A simple slot booking application built with React and Vite. Users can select a 
 
 ---
 
-## 📁 Folder Structure
+##  Folder Structure
 
 - 
 - `src/components/Date1.jsx` — Main slot date selection component
